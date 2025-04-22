@@ -1,4 +1,4 @@
-# 📊 Logistic Regression Sigmoid Visualization
+# (1) 📊 Logistic Regression Sigmoid Visualization
 
 *A visual demonstration of how parameters affect classification in logistic regression*
 
@@ -10,8 +10,8 @@ def sigmoid(z):
 
 
 
+# (2) 📊 Interactive Logistic Regression Visualization
 
-📊 Interactive Logistic Regression Visualization
 3D Sigmoid Surface with Dynamic Decision Boundary
 
 Interactive Demo
