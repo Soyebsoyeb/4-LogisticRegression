@@ -73,7 +73,25 @@ theta_values = [1, -1, 2, -2]
 theta0_values = [0, 1, -1, 2]
 
 
-# (4) # 📊 3D Gradient Descent Visualization
+
+
+# (4) 📊 2D Gradient Descent Visualization
+ Gradient Descent Visualization on f(x) = x²
+
+This Python script visually demonstrates gradient descent optimization on the quadratic function f(x) = x², showing each iteration's position, tangent line, and optimization path.
+
+## Features
+
+- 📉 **Step-by-step visualization** of gradient descent
+- 📐 **Tangent line plotting** at each iteration
+- 📊 **Interactive matplotlib figures** for each step
+- 🔍 **Adjustable parameters**: learning rate, iterations, starting point
+- 📈 **Clear visualization** of optimization trajectory
+
+  
+
+
+# (5) 📊 3D Gradient Descent Visualization
 
 ![gradient_descent](https://github.com/user-attachments/assets/afce4f84-1dab-437a-86b8-a0c939b2dd30)
 
