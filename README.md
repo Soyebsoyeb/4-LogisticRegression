@@ -71,3 +71,20 @@ def cross_entropy_loss(x, y, theta, theta0): ...
 # Parameter sets to test
 theta_values = [1, -1, 2, -2]
 theta0_values = [0, 1, -1, 2]
+
+
+# (4) # 📊 3D Gradient Descent Visualization
+
+![gradient_descent](https://github.com/user-attachments/assets/afce4f84-1dab-437a-86b8-a0c939b2dd30)
+
+This project visualizes gradient descent optimization on a 3D parabolic function (f(x,y) = x² + y²) using Matplotlib. It demonstrates how the algorithm navigates toward the minimum point through a series of interactive 3D plots.
+
+## Features
+
+- 🎥 **Animated 3D visualization** of gradient descent steps
+- 📐 **Gradient vector visualization** showing descent direction
+- 📊 **Interactive plots** with rotation/zoom capability
+- 🖼️ **Frame-by-frame output** for detailed analysis
+- 🎚️ **Adjustable parameters**: learning rate, iterations, starting point
+- 🔄 **Multiple output formats**: GIF, HTML5, individual frames
+
