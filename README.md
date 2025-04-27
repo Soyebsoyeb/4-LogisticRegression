@@ -46,6 +46,7 @@ z = Decision boundary linear combination.
 
 
 
+
 # (3) 📊 Logistic Regression Visualization with Sigmoid and Cross-Entropy Loss
 
 This Python script visualizes logistic regression by plotting sigmoid functions for different parameters (`theta` and `theta0`) and computing the corresponding cross-entropy loss.
@@ -75,6 +76,8 @@ theta0_values = [0, 1, -1, 2]
 
 
 
+
+
 # (4) 📊 2D Gradient Descent Visualization
  Gradient Descent Visualization on f(x) = x²
 
@@ -91,6 +94,7 @@ This Python script visually demonstrates gradient descent optimization on the qu
   
 
 
+
 # (5) 📊 3D Gradient Descent Visualization
 
 ![gradient_descent](https://github.com/user-attachments/assets/afce4f84-1dab-437a-86b8-a0c939b2dd30)
@@ -105,4 +109,27 @@ This project visualizes gradient descent optimization on a 3D parabolic function
 - 🖼️ **Frame-by-frame output** for detailed analysis
 - 🎚️ **Adjustable parameters**: learning rate, iterations, starting point
 - 🔄 **Multiple output formats**: GIF, HTML5, individual frames
+
+
+
+
+
+
+#(6) 📊 Logistic Regression from Scratch
+
+This repository contains a Python implementation of logistic regression from scratch using NumPy. The implementation includes gradient descent optimization and visualization of the decision boundary during training.
+
+## Features
+
+- Sigmoid activation function
+- Binary cross-entropy (log loss) calculation
+- Gradient descent optimization
+- Interactive visualization of decision boundary evolution
+- Handcrafted 2D dataset for binary classification
+
+## Requirements
+
+- Python 3.x
+- NumPy
+- Matplotlib
 
