@@ -133,3 +133,27 @@ This repository contains a Python implementation of logistic regression from scr
 - NumPy
 - Matplotlib
 
+
+
+
+# (7) 📊 Logistic Regression with Polynomial Features
+
+This project implements logistic regression with polynomial feature expansion to classify non-linearly separable data. The implementation includes gradient descent optimization and visualization of decision boundaries.
+
+## Features
+
+- Polynomial feature expansion up to any degree
+- Logistic regression with gradient descent
+- Decision boundary visualization
+- Cost function tracking
+- Regularization-ready structure (L1/L2 can be easily added)
+
+## Requirements
+
+- Python 3.x
+- NumPy
+- Matplotlib
+- Seaborn
+- SciPy
+
+
