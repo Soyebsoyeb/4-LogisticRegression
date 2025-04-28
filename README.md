@@ -157,3 +157,17 @@ This project implements logistic regression with polynomial feature expansion to
 - SciPy
 
 
+
+
+# (8) 📊 Regularized Logistic Regression with Polynomial Features
+
+Regularization is a crucial technique for preventing overfitting in machine learning models, particularly when dealing with:
+
+- High-dimensional features (like polynomial expansions)
+- Limited training data
+- Noisy datasets
+
+## Features
+- **Polynomial Feature Expansion**: Up to degree `n` configurable
+- **L2 Regularization**: Prevent overfitting with adjustable λ
+
